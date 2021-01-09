@@ -403,7 +403,7 @@ total_munis <- aragon_munis %>%
         euskadi_munis, catalunya_munis)
 
 
-
+write_csv(total_munis, "datos_covid_municipios.csv")
 
 
 #save.image("datos_diciembre.Rdata")
