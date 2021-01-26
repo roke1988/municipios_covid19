@@ -1,4 +1,4 @@
-#Datos COVID-19 en España por municipios
+Datos COVID-19 en España por municipios
 =====================================
 
 - Este repositorio contiene datos sobre la covid-19 (casos y fallecidos) por municipios así como los scripts de R utilizados para su recopilación. Los datos son recogidos semanalmente desde el 6 de Enero de 2021. Dado que no todas las CCAA ofrecen datos por municipios la base de datos está limitada a las siguientes CCAA: Aragón, Euskadi, Cataluña, Andalucía, Canarias, Comunidad de Valencia, Comunidad de Madrid (solo casos), Baleares y Cantabria. Así mismo, la base de datos contiene otras variables sociodemográficas por municipios (población, renta media, población mallor de 64...).
