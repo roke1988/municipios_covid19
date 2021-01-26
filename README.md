@@ -25,5 +25,5 @@ Datos COVID-19 en España por municipios
 
 -Madrid: https://datos.comunidad.madrid/catalogo/dataset/covid19_tia_muni_y_distritos
 
-- Variables sociodemográficas: https://www.ine.es
+-Variables sociodemográficas: https://www.ine.es
 
